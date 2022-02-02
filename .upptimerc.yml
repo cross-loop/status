@@ -17,7 +17,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://console.cross-loop.io/company/cross-loop/logo120x120.png
   name: Status
-  introTitle: "**Api** Show status platform."
+  introTitle: "**Platform** status."
   introMessage: 
   navbar:
     - title: Status
