@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 567,
-    "timeWeek": 312,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 272,
+    "timeDay": 112,
+    "timeWeek": 292,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 382,
-    "timeWeek": 168,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 216,
+    "timeDay": 131,
+    "timeWeek": 174,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/connect.cross-loop.io",
     "slug": "connect",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 337,
-    "timeWeek": 250,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "uptime": "97.71%",
+    "uptimeDay": "83.40%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 212,
+    "timeDay": 260,
+    "timeWeek": 247,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-10": 23,
+      "2022-02-09": 216
     }
   }
 ]
