@@ -22,19 +22,19 @@
     "url": "https://app.cross-loop.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.cross-loop.io.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 64,
-    "timeWeek": 249,
-    "timeMonth": 167,
-    "timeYear": 174,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 175,
+    "timeDay": 341,
+    "timeWeek": 295,
+    "timeMonth": 182,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 26
     }
   },
   {
