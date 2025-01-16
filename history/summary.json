@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 314,
-    "timeWeek": 390,
-    "timeMonth": 542,
+    "timeDay": 315,
+    "timeWeek": 380,
+    "timeMonth": 536,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2024-04-17": 25
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 430,
-    "timeWeek": 303,
-    "timeMonth": 364,
+    "timeDay": 236,
+    "timeWeek": 300,
+    "timeMonth": 360,
     "timeYear": 350,
-    "dailyMinutesDown": {
-      "2024-01-17": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Connect",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 201,
-    "timeWeek": 244,
-    "timeMonth": 252,
+    "timeDay": 277,
+    "timeWeek": 268,
+    "timeMonth": 254,
     "timeYear": 229,
     "dailyMinutesDown": {}
   }
