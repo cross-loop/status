@@ -24,7 +24,7 @@
     "url": "https://app.cross-loop.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.cross-loop.io.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 290,
     "timeMonth": 330,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Connect",
