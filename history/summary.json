@@ -32,7 +32,7 @@
     "timeDay": 201,
     "timeWeek": 347,
     "timeMonth": 329,
-    "timeYear": 361,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2025-07-09": 32,
       "2025-07-27": 25,
@@ -56,19 +56,20 @@
     "url": "https://connect.cross-loop.io/v1/default/action",
     "icon": "https://icons.duckduckgo.com/ip3/connect.cross-loop.io.ico",
     "slug": "connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 254,
-    "timeDay": 101,
-    "timeWeek": 166,
-    "timeMonth": 210,
-    "timeYear": 253,
+    "time": 274,
+    "timeDay": 5089,
+    "timeWeek": 1404,
+    "timeMonth": 528,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-10-20": 79
+      "2025-10-20": 79,
+      "2026-07-06": 0
     }
   }
 ]
